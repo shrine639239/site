@@ -313,7 +313,7 @@ body {
 .main2_feature {
     display: flex;
     background-color: var(--background1);
-    height: 24rem;
+    height: 38rem;
     width: 18rem;
     margin: 1rem;
     border-radius: var(--roundness);
